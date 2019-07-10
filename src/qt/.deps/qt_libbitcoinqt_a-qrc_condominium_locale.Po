@@ -1,0 +1,2 @@
+qt/qt_libbitcoinqt_a-qrc_MakeMyCoin_locale.o: \
+ qt/qrc_MakeMyCoin_locale.cpp

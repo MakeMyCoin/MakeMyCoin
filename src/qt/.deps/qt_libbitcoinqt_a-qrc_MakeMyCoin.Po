@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_MakeMyCoin.o: qt/qrc_MakeMyCoin.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

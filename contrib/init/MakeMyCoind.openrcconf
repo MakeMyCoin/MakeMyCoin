@@ -1,0 +1,26 @@
+# /etc/conf.d/MakeMyCoind: config file for /etc/init.d/MakeMyCoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/MakeMyCoin/MakeMyCoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/MakeMyCoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/MakeMyCoind.pid"
+
+# Where to write MakeMyCoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/MakeMyCoind"
+
+# User and group to own MakeMyCoind process
+#BITCOIND_USER="MakeMyCoin"
+#BITCOIND_GROUP="MakeMyCoin"
+
+# Path to MakeMyCoind executable
+#BITCOIND_BIN="/usr/bin/MakeMyCoind"
+
+# Nice value to run MakeMyCoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/MakeMyCoin_bg.qm</file>
+        <file alias="ca">locale/MakeMyCoin_ca.qm</file>
+        <file alias="cs">locale/MakeMyCoin_cs.qm</file>
+        <file alias="da">locale/MakeMyCoin_da.qm</file>
+        <file alias="de">locale/MakeMyCoin_de.qm</file>
+        <file alias="en">locale/MakeMyCoin_en.qm</file>
+        <file alias="en_US">locale/MakeMyCoin_en_US.qm</file>
+        <file alias="es">locale/MakeMyCoin_es.qm</file>
+        <file alias="fi">locale/MakeMyCoin_fi.qm</file>
+        <file alias="fr_FR">locale/MakeMyCoin_fr_FR.qm</file>
+        <file alias="hr">locale/MakeMyCoin_hr.qm</file>
+        <file alias="it">locale/MakeMyCoin_it.qm</file>
+        <file alias="ja">locale/MakeMyCoin_ja.qm</file>
+        <file alias="ko_KR">locale/MakeMyCoin_ko_KR.qm</file>
+        <file alias="nl">locale/MakeMyCoin_nl.qm</file>
+        <file alias="pl">locale/MakeMyCoin_pl.qm</file>
+        <file alias="pt">locale/MakeMyCoin_pt.qm</file>
+        <file alias="pt_BR">locale/MakeMyCoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/MakeMyCoin_ro_RO.qm</file>
+        <file alias="ru">locale/MakeMyCoin_ru.qm</file>
+        <file alias="sk">locale/MakeMyCoin_sk.qm</file>
+        <file alias="sv">locale/MakeMyCoin_sv.qm</file>
+        <file alias="tr">locale/MakeMyCoin_tr.qm</file>
+        <file alias="uk">locale/MakeMyCoin_uk.qm</file>
+        <file alias="zh_CN">locale/MakeMyCoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/MakeMyCoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

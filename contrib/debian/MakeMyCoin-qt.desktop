@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MakeMyCoin
+Comment=MakeMyCoin P2P Cryptocurrency
+Comment[fr]=MakeMyCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MakeMyCoin, eşten eşe kriptografik sanal para birimi
+Exec=MakeMyCoin-qt %u
+Terminal=false
+Type=Application
+Icon=MakeMyCoin128
+MimeType=x-scheme-handler/MakeMyCoin;
+Categories=Office;Finance;
