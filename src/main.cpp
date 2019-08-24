@@ -2208,18 +2208,20 @@ int64_t GetBlockValue(int nHeight)
           nSubsidy = 5 * COIN;
       } else if (nHeight <= 60000 && nHeight > 15000) {
           nSubsidy = 10 * COIN;
-      } else if (nHeight <= 100000 && nHeight > 60000) {
+      } else if (nHeight <= 670000 && nHeight > 60000) {
           nSubsidy = 20 * COIN;
+      } else if (nHeight <= 100000 && nHeight > 67000) {  //FORK BLOCK IS 67000
+          nSubsidy = 7 * COIN;
       } else if (nHeight <= 200000 && nHeight > 100000) {
-          nSubsidy = 25 * COIN;
+          nSubsidy = 8 * COIN;
       }else if (nHeight <= 300000 && nHeight > 200000) {
-          nSubsidy = 30 * COIN;
+          nSubsidy = 9 * COIN;
       }else if (nHeight <= 500000 && nHeight > 300000) {
-          nSubsidy = 25 * COIN;
-      }else if (nHeight <= 1000000 && nHeight > 500000) {
-          nSubsidy = 20 * COIN;
-      }else if (nHeight <= 2000000 && nHeight > 1000000) {
           nSubsidy = 10 * COIN;
+      }else if (nHeight <= 1000000 && nHeight > 500000) {
+          nSubsidy = 8 * COIN;
+      }else if (nHeight <= 2000000 && nHeight > 1000000) {
+          nSubsidy = 5 * COIN;
       }
 
         else {
